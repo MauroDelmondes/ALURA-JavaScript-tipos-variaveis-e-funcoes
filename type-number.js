@@ -7,7 +7,7 @@ const segundoNumero = 2;
 
 const operacaoMatematica = primeiroNumero - segundoNumero;
 
-console.log(operacaoMatematica);
+console.log(operacaoMatematica)
 
 // ponto flutuante
 
@@ -16,9 +16,9 @@ const pontoFlutuanteSemZero = .5;
 
 const novaOperacao = primeiroNumero / numeroPontoFlutuante;
 
-console.log(novaOperacao);
+console.log(novaOperacao)
 
-// NaN -> Not a Number (não é um número)
+// NaN -> Not A Number (não é um número)
 
-const alura = 'Alura';
-console.log(alura * primeiroNumero);
+const alura = "Alura";
+console.log(alura * primeiroNumero)

@@ -1,13 +1,13 @@
-const texto1 = "Olá mundo!";
-const texto2 = 'Olá mundo!';
+const texto1 = "Olá, mundo!";
+const texto2 = 'Olá, mundo!';
 const senha = "senhaSuperSegura456!";
 const StringDeNumeros = "34567";
 
 const citacao = "Meu nome é ";
-const meuNome = "Mauro";
+const meuNome = "Leonardo";
 
-// concatenacao (+)
+// concatenação (+)
 
-console.log(citacao + meuNome);
+console.log(citacao + meuNome)
 
-//template string ou template literal
+//template string OU template literal
